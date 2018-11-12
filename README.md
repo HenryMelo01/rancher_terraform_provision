@@ -5,5 +5,5 @@ Modify terraform.tfvars to set the variables
 terraform init
 terraform apply
 
-#Be happy
+# Be happy
 :)
