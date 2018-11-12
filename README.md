@@ -1,10 +1,10 @@
 # rancher_terraform_provision
-Modify terraform.tfvars to set the variables <br>
-Modify main.tf to set the bucket to safe the .tfstate
+Modify <b>terraform.tfvars</b> to set the variables <br>
+Modify <b>main.tf</>b to set the bucket to safe the .tfstate
 
 # run
-terraform init <br>
-terraform apply
+<b>terraform init <br>
+terraform apply</b>
 
 # Be happy
 :)
